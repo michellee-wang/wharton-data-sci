@@ -20,7 +20,6 @@ This repository contains a data science project focused on analyzing college bas
 
 ## Requirements
 
-- Python 3.x
 - pandas
 - numpy
 - scikit-learn
